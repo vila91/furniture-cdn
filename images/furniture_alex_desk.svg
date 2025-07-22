@@ -1,0 +1,14 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
+  <rect x="60" y="70" width="280" height="20" fill="#343a40" rx="3"/>
+  <rect x="70" y="95" width="40" height="60" fill="#495057" rx="2"/>
+  <rect x="120" y="95" width="40" height="60" fill="#495057" rx="2"/>
+  <rect x="170" y="95" width="40" height="60" fill="#495057" rx="2"/>
+  <rect x="220" y="95" width="40" height="60" fill="#495057" rx="2"/>
+  <rect x="270" y="95" width="40" height="60" fill="#495057" rx="2"/>
+  <rect x="50" y="160" width="20" height="80" fill="#6c757d" rx="2"/>
+  <rect x="330" y="160" width="20" height="80" fill="#6c757d" rx="2"/>
+  <text x="200" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#495057">Bureau ALEX</text>
+  <text x="200" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#6c757d">IKEA - 9 tiroirs</text>
+  <text x="200" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#868e96">131x76x60 cm</text>
+</svg>
