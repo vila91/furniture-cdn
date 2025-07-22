@@ -1,0 +1,592 @@
+{
+  "metadata": {
+    "extraction_date": "2025-07-22T18:08:10.323885",
+    "sites_analyzed": [
+      "https://www.ikea.com/fr/fr/"
+    ],
+    "total_products": 20,
+    "script_version": "1.0"
+  },
+  "products": [
+    {
+      "payload": {
+        "name": "Appareils électroniques - IKEA",
+        "image_url": null,
+        "ecommerce_url": "https://www.ikea.com/fr/fr/cat/appareils-electroniques-he001/",
+        "dimensions": {
+          "width": 0,
+          "height": 0,
+          "depth": 0
+        },
+        "type": "autre",
+        "style": "moderne",
+        "room": [
+          "salon"
+        ],
+        "tags": [],
+        "color_primary": "inconnu",
+        "color_secondary": null,
+        "material": "inconnu",
+        "brand": "IKEA",
+        "price_range": "0-100",
+        "description": "N/A",
+        "weight": 0,
+        "assembly_required": false,
+        "warranty": "non spécifiée",
+        "stock_status": "unknown",
+        "country": "France"
+      }
+    },
+    {
+      "payload": {
+        "name": "Rangements pas cher - IKEA",
+        "image_url": null,
+        "ecommerce_url": "https://www.ikea.com/fr/fr/cat/rangement-st001/",
+        "dimensions": {
+          "width": 0,
+          "height": 0,
+          "depth": 0
+        },
+        "type": "autre",
+        "style": "moderne",
+        "room": [
+          "salon"
+        ],
+        "tags": [],
+        "color_primary": "inconnu",
+        "color_secondary": null,
+        "material": "inconnu",
+        "brand": "IKEA",
+        "price_range": "0-100",
+        "description": "N/A",
+        "weight": 0,
+        "assembly_required": false,
+        "warranty": "non spécifiée",
+        "stock_status": "unknown",
+        "country": "France"
+      }
+    },
+    {
+      "payload": {
+        "name": "Canapés et fauteuils - IKEA",
+        "image_url": null,
+        "ecommerce_url": "https://www.ikea.com/fr/fr/cat/canapes-et-fauteuils-700640/",
+        "dimensions": {
+          "width": 0,
+          "height": 0,
+          "depth": 0
+        },
+        "type": "canapé",
+        "style": "inconnu",
+        "room": [
+          "salon"
+        ],
+        "tags": [],
+        "color_primary": "inconnu",
+        "color_secondary": null,
+        "material": "inconnu",
+        "brand": "IKEA",
+        "price_range": "inconnu",
+        "description": "N/A",
+        "weight": 0,
+        "assembly_required": false,
+        "warranty": "non spécifiée",
+        "stock_status": "unknown",
+        "country": "France"
+      }
+    },
+    {
+      "payload": {
+        "name": "Linge de maison et textile - IKEA",
+        "image_url": null,
+        "ecommerce_url": "https://www.ikea.com/fr/fr/cat/linge-de-maison-et-textile-tl001/",
+        "dimensions": {
+          "width": 0,
+          "height": 0,
+          "depth": 0
+        },
+        "type": "autre",
+        "style": "inconnu",
+        "room": [
+          "salon"
+        ],
+        "tags": [],
+        "color_primary": "inconnu",
+        "color_secondary": null,
+        "material": "inconnu",
+        "brand": "IKEA",
+        "price_range": "0-100",
+        "description": "N/A",
+        "weight": 0,
+        "assembly_required": false,
+        "warranty": "non spécifiée",
+        "stock_status": "unknown",
+        "country": "France"
+      }
+    },
+    {
+      "payload": {
+        "name": "Buanderie - IKEA",
+        "image_url": null,
+        "ecommerce_url": "https://www.ikea.com/fr/fr/cat/buanderie-lc001/",
+        "dimensions": {
+          "width": 0,
+          "height": 0,
+          "depth": 0
+        },
+        "type": "autre",
+        "style": "moderne",
+        "room": [
+          "salon"
+        ],
+        "tags": [],
+        "color_primary": "inconnu",
+        "color_secondary": null,
+        "material": "inconnu",
+        "brand": "IKEA",
+        "price_range": "0-100",
+        "description": "N/A",
+        "weight": 0,
+        "assembly_required": false,
+        "warranty": "non spécifiée",
+        "stock_status": "unknown",
+        "country": "France"
+      }
+    },
+    {
+      "payload": {
+        "name": "Tapis et paillasson - IKEA",
+        "image_url": null,
+        "ecommerce_url": "https://www.ikea.com/fr/fr/cat/tapis-et-paillasson-rm001/",
+        "dimensions": {
+          "width": 0,
+          "height": 0,
+          "depth": 0
+        },
+        "type": "autre",
+        "style": "inconnu",
+        "room": [
+          "salon"
+        ],
+        "tags": [],
+        "color_primary": "inconnu",
+        "color_secondary": null,
+        "material": "inconnu",
+        "brand": "IKEA",
+        "price_range": "0-100",
+        "description": "N/A",
+        "weight": 0,
+        "assembly_required": false,
+        "warranty": "non spécifiée",
+        "stock_status": "unknown",
+        "country": "France"
+      }
+    },
+    {
+      "payload": {
+        "name": "Lits et matelas - IKEA",
+        "image_url": null,
+        "ecommerce_url": "https://www.ikea.com/fr/fr/cat/lits-et-matelas-bm001/",
+        "dimensions": {
+          "width": 0,
+          "height": 0,
+          "depth": 0
+        },
+        "type": "lit",
+        "style": "moderne",
+        "room": [
+          "salon"
+        ],
+        "tags": [],
+        "color_primary": "inconnu",
+        "color_secondary": null,
+        "material": "inconnu",
+        "brand": "IKEA",
+        "price_range": "0-100",
+        "description": "N/A",
+        "weight": 0,
+        "assembly_required": false,
+        "warranty": "non spécifiée",
+        "stock_status": "unknown",
+        "country": "France"
+      }
+    },
+    {
+      "payload": {
+        "name": "Bureaux et chaises de bureau - IKEA",
+        "image_url": null,
+        "ecommerce_url": "https://www.ikea.com/fr/fr/cat/bureaux-chaises-de-bureau-fu004/",
+        "dimensions": {
+          "width": 0,
+          "height": 0,
+          "depth": 0
+        },
+        "type": "autre",
+        "style": "moderne",
+        "room": [
+          "salon"
+        ],
+        "tags": [],
+        "color_primary": "inconnu",
+        "color_secondary": null,
+        "material": "inconnu",
+        "brand": "IKEA",
+        "price_range": "0-100",
+        "description": "N/A",
+        "weight": 0,
+        "assembly_required": false,
+        "warranty": "non spécifiée",
+        "stock_status": "unknown",
+        "country": "France"
+      }
+    },
+    {
+      "payload": {
+        "name": "Toutes nos décorations intérieures - IKEA",
+        "image_url": null,
+        "ecommerce_url": "https://www.ikea.com/fr/fr/cat/decoration-de001/",
+        "dimensions": {
+          "width": 0,
+          "height": 0,
+          "depth": 0
+        },
+        "type": "autre",
+        "style": "moderne",
+        "room": [
+          "salon"
+        ],
+        "tags": [],
+        "color_primary": "inconnu",
+        "color_secondary": null,
+        "material": "inconnu",
+        "brand": "IKEA",
+        "price_range": "0-100",
+        "description": "N/A",
+        "weight": 0,
+        "assembly_required": false,
+        "warranty": "non spécifiée",
+        "stock_status": "unknown",
+        "country": "France"
+      }
+    },
+    {
+      "payload": {
+        "name": "Tous nos meubles et produits de salle de bain - IKEA",
+        "image_url": null,
+        "ecommerce_url": "https://www.ikea.com/fr/fr/cat/salle-de-bain-ba001/",
+        "dimensions": {
+          "width": 0,
+          "height": 0,
+          "depth": 0
+        },
+        "type": "autre",
+        "style": "moderne",
+        "room": [
+          "salon"
+        ],
+        "tags": [],
+        "color_primary": "inconnu",
+        "color_secondary": null,
+        "material": "inconnu",
+        "brand": "IKEA",
+        "price_range": "0-100",
+        "description": "N/A",
+        "weight": 0,
+        "assembly_required": false,
+        "warranty": "non spécifiée",
+        "stock_status": "unknown",
+        "country": "France"
+      }
+    },
+    {
+      "payload": {
+        "name": "Luminaires et éclairage - LED - Intérieur Extérieur - IKEA",
+        "image_url": null,
+        "ecommerce_url": "https://www.ikea.com/fr/fr/cat/luminaires-et-eclairage-li001/",
+        "dimensions": {
+          "width": 0,
+          "height": 0,
+          "depth": 0
+        },
+        "type": "autre",
+        "style": "moderne",
+        "room": [
+          "salon"
+        ],
+        "tags": [],
+        "color_primary": "inconnu",
+        "color_secondary": null,
+        "material": "inconnu",
+        "brand": "IKEA",
+        "price_range": "0-100",
+        "description": "N/A",
+        "weight": 0,
+        "assembly_required": false,
+        "warranty": "non spécifiée",
+        "stock_status": "unknown",
+        "country": "France"
+      }
+    },
+    {
+      "payload": {
+        "name": "Arts de la table, vaisselle et ustensiles de cuisine  - IKEA",
+        "image_url": null,
+        "ecommerce_url": "https://www.ikea.com/fr/fr/cat/arts-de-la-table-vaisselle-et-ustensiles-de-cuisine-kt001/",
+        "dimensions": {
+          "width": 0,
+          "height": 0,
+          "depth": 0
+        },
+        "type": "autre",
+        "style": "inconnu",
+        "room": [
+          "salon"
+        ],
+        "tags": [],
+        "color_primary": "inconnu",
+        "color_secondary": null,
+        "material": "inconnu",
+        "brand": "IKEA",
+        "price_range": "0-100",
+        "description": "N/A",
+        "weight": 0,
+        "assembly_required": false,
+        "warranty": "non spécifiée",
+        "stock_status": "unknown",
+        "country": "France"
+      }
+    },
+    {
+      "payload": {
+        "name": "Mobilier et accessoires d'extérieur - IKEA",
+        "image_url": null,
+        "ecommerce_url": "https://www.ikea.com/fr/fr/cat/mobilier-et-accessoires-dexterieur-od001/",
+        "dimensions": {
+          "width": 0,
+          "height": 0,
+          "depth": 0
+        },
+        "type": "autre",
+        "style": "moderne",
+        "room": [
+          "salon"
+        ],
+        "tags": [],
+        "color_primary": "inconnu",
+        "color_secondary": null,
+        "material": "inconnu",
+        "brand": "inconnu",
+        "price_range": "0-100",
+        "description": "N/A",
+        "weight": 0,
+        "assembly_required": false,
+        "warranty": "non spécifiée",
+        "stock_status": "unknown",
+        "country": "France"
+      }
+    },
+    {
+      "payload": {
+        "name": "Tables et chaises - IKEA",
+        "image_url": null,
+        "ecommerce_url": "https://www.ikea.com/fr/fr/cat/tables-chaises-fu002/",
+        "dimensions": {
+          "width": 0,
+          "height": 0,
+          "depth": 0
+        },
+        "type": "autre",
+        "style": "inconnu",
+        "room": [
+          "salon"
+        ],
+        "tags": [],
+        "color_primary": "inconnu",
+        "color_secondary": null,
+        "material": "inconnu",
+        "brand": "IKEA",
+        "price_range": "inconnu",
+        "description": "N/A",
+        "weight": 0,
+        "assembly_required": false,
+        "warranty": "non spécifiée",
+        "stock_status": "unknown",
+        "country": "France"
+      }
+    },
+    {
+      "payload": {
+        "name": "Accessoires de rangement - IKEA",
+        "image_url": null,
+        "ecommerce_url": "https://www.ikea.com/fr/fr/cat/accessoires-de-rangement-st007/",
+        "dimensions": {
+          "width": 0,
+          "height": 0,
+          "depth": 0
+        },
+        "type": "autre",
+        "style": "inconnu",
+        "room": [
+          "salon"
+        ],
+        "tags": [],
+        "color_primary": "inconnu",
+        "color_secondary": null,
+        "material": "inconnu",
+        "brand": "IKEA",
+        "price_range": "0-100",
+        "description": "N/A",
+        "weight": 0,
+        "assembly_required": false,
+        "warranty": "non spécifiée",
+        "stock_status": "unknown",
+        "country": "France"
+      }
+    },
+    {
+      "payload": {
+        "name": "Bricolage - IKEA",
+        "image_url": null,
+        "ecommerce_url": "https://www.ikea.com/fr/fr/cat/personnalisation-et-entretien-hi001/",
+        "dimensions": {
+          "width": 0,
+          "height": 0,
+          "depth": 0
+        },
+        "type": "autre",
+        "style": "inconnu",
+        "room": [
+          "salon"
+        ],
+        "tags": [],
+        "color_primary": "inconnu",
+        "color_secondary": null,
+        "material": "inconnu",
+        "brand": "IKEA",
+        "price_range": "inconnu",
+        "description": "N/A",
+        "weight": 0,
+        "assembly_required": false,
+        "warranty": "non spécifiée",
+        "stock_status": "unknown",
+        "country": "France"
+      }
+    },
+    {
+      "payload": {
+        "name": "Maison connectée - domotique et objet connecté - IKEA",
+        "image_url": null,
+        "ecommerce_url": "https://www.ikea.com/fr/fr/cat/maison-connectee-hs001/",
+        "dimensions": {
+          "width": 0,
+          "height": 0,
+          "depth": 0
+        },
+        "type": "autre",
+        "style": "moderne",
+        "room": [
+          "salon"
+        ],
+        "tags": [],
+        "color_primary": "inconnu",
+        "color_secondary": null,
+        "material": "inconnu",
+        "brand": "IKEA",
+        "price_range": "0-100",
+        "description": "N/A",
+        "weight": 0,
+        "assembly_required": false,
+        "warranty": "non spécifiée",
+        "stock_status": "unknown",
+        "country": "France"
+      }
+    },
+    {
+      "payload": {
+        "name": "Mobilier de cuisine et gros électroménager - IKEA",
+        "image_url": null,
+        "ecommerce_url": "https://www.ikea.com/fr/fr/cat/cuisine-et-electromenager-ka001/",
+        "dimensions": {
+          "width": 0,
+          "height": 0,
+          "depth": 0
+        },
+        "type": "autre",
+        "style": "moderne",
+        "room": [
+          "salon"
+        ],
+        "tags": [],
+        "color_primary": "inconnu",
+        "color_secondary": null,
+        "material": "inconnu",
+        "brand": "IKEA",
+        "price_range": "0-100",
+        "description": "N/A",
+        "weight": 0,
+        "assembly_required": false,
+        "warranty": "non spécifiée",
+        "stock_status": "unknown",
+        "country": "France"
+      }
+    },
+    {
+      "payload": {
+        "name": "Favoris - IKEA",
+        "image_url": null,
+        "ecommerce_url": "https://www.ikea.com/fr/fr/favourites/",
+        "dimensions": {
+          "width": 0,
+          "height": 0,
+          "depth": 0
+        },
+        "type": "autre",
+        "style": "moderne",
+        "room": [
+          "salon"
+        ],
+        "tags": [],
+        "color_primary": "inconnu",
+        "color_secondary": null,
+        "material": "inconnu",
+        "brand": "IKEA",
+        "price_range": "0-100",
+        "description": "N/A",
+        "weight": 0,
+        "assembly_required": false,
+        "warranty": "non spécifiée",
+        "stock_status": "unknown",
+        "country": "France"
+      }
+    },
+    {
+      "payload": {
+        "name": "Meubles chambre bébé et enfant - IKEA",
+        "image_url": null,
+        "ecommerce_url": "https://www.ikea.com/fr/fr/cat/bebe-et-enfant-bc001/",
+        "dimensions": {
+          "width": 0,
+          "height": 0,
+          "depth": 0
+        },
+        "type": "autre",
+        "style": "moderne",
+        "room": [
+          "salon"
+        ],
+        "tags": [],
+        "color_primary": "inconnu",
+        "color_secondary": null,
+        "material": "inconnu",
+        "brand": "IKEA",
+        "price_range": "0-100",
+        "description": "N/A",
+        "weight": 0,
+        "assembly_required": false,
+        "warranty": "non spécifiée",
+        "stock_status": "unknown",
+        "country": "France"
+      }
+    }
+  ]
+}
