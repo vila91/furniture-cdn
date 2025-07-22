@@ -1,0 +1,13 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
+  <ellipse cx="200" cy="90" rx="35" ry="45" fill="#6c757d"/>
+  <rect x="180" y="135" width="40" height="35" fill="#6c757d" rx="8"/>
+  <line x1="200" y1="170" x2="200" y2="215" stroke="#495057" stroke-width="4"/>
+  <circle cx="170" cy="235" r="6" fill="#495057"/>
+  <circle cx="190" cy="235" r="6" fill="#495057"/>
+  <circle cx="210" cy="235" r="6" fill="#495057"/>
+  <circle cx="230" cy="235" r="6" fill="#495057"/>
+  <text x="200" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#495057">Chaise Velours PAM</text>
+  <text x="200" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#6c757d">Conforama - Gris</text>
+  <text x="200" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#868e96">59x89x60 cm</text>
+</svg>
