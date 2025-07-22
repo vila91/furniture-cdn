@@ -1,0 +1,15 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
+  <rect x="175" y="70" width="50" height="70" fill="#0d6efd" rx="6"/>
+  <rect x="180" y="140" width="40" height="35" fill="#0d6efd" rx="4"/>
+  <rect x="165" y="75" width="15" height="60" fill="#495057" rx="2"/>
+  <rect x="220" y="75" width="15" height="60" fill="#495057" rx="2"/>
+  <line x1="200" y1="175" x2="200" y2="220" stroke="#6c757d" stroke-width="4"/>
+  <circle cx="170" cy="240" r="6" fill="#495057"/>
+  <circle cx="190" cy="240" r="6" fill="#495057"/>
+  <circle cx="210" cy="240" r="6" fill="#495057"/>
+  <circle cx="230" cy="240" r="6" fill="#495057"/>
+  <text x="200" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#495057">Chaise Pivotante</text>
+  <text x="200" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#6c757d">Conforama - Bleue</text>
+  <text x="200" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#868e96">58x80x59 cm</text>
+</svg>

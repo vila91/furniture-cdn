@@ -1,0 +1,14 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
+  <rect x="50" y="80" width="300" height="18" fill="#8b4513" rx="2"/>
+  <rect x="70" y="100" width="35" height="55" fill="#495057" rx="2"/>
+  <rect x="115" y="100" width="35" height="55" fill="#495057" rx="2"/>
+  <rect x="160" y="100" width="35" height="55" fill="#495057" rx="2"/>
+  <rect x="60" y="160" width="15" height="70" fill="#343a40" rx="1"/>
+  <rect x="325" y="160" width="15" height="70" fill="#343a40" rx="1"/>
+  <rect x="40" y="225" width="50" height="8" fill="#343a40" rx="2"/>
+  <rect x="310" y="225" width="50" height="8" fill="#343a40" rx="2"/>
+  <text x="200" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#495057">Bureau CAISSES</text>
+  <text x="200" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#6c757d">BUT - Industriel</text>
+  <text x="200" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#868e96">120x75x58 cm</text>
+</svg>

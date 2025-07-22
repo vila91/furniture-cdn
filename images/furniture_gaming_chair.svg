@@ -1,0 +1,14 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
+  <rect x="170" y="60" width="60" height="80" fill="#dc3545" rx="8"/>
+  <rect x="175" y="140" width="50" height="40" fill="#dc3545" rx="6"/>
+  <rect x="160" y="65" width="15" height="70" fill="#343a40" rx="3"/>
+  <rect x="225" y="65" width="15" height="70" fill="#343a40" rx="3"/>
+  <line x1="200" y1="180" x2="200" y2="230" stroke="#6c757d" stroke-width="4"/>
+  <circle cx="170" cy="250" r="8" fill="#495057"/>
+  <circle cx="200" cy="250" r="8" fill="#495057"/>
+  <circle cx="230" cy="250" r="8" fill="#495057"/>
+  <text x="200" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#495057">Fauteuil Gaming</text>
+  <text x="200" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#6c757d">BUT - Rouge/Noir</text>
+  <text x="200" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#868e96">70x128x64 cm</text>
+</svg>
