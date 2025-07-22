@@ -1,0 +1,15 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
+  <circle cx="200" cy="120" r="45" fill="#6c757d"/>
+  <rect x="180" y="110" width="40" height="60" fill="#495057" rx="20"/>
+  <rect x="160" y="170" width="80" height="15" fill="#343a40" rx="2"/>
+  <circle cx="120" cy="260" r="8" fill="#495057"/>
+  <circle cx="160" cy="260" r="8" fill="#495057"/>
+  <circle cx="200" cy="260" r="8" fill="#495057"/>
+  <circle cx="240" cy="260" r="8" fill="#495057"/>
+  <circle cx="280" cy="260" r="8" fill="#495057"/>
+  <line x1="200" y1="185" x2="200" y2="245" stroke="#6c757d" stroke-width="3"/>
+  <text x="200" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#495057">Chaise FLINTAN</text>
+  <text x="200" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#6c757d">IKEA - Pivotante</text>
+  <text x="200" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#868e96">68x87x68 cm</text>
+</svg>
