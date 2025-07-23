@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "extraction_date": "2025-07-23T09:53:15.052635",
+    "sites_analyzed": [
+      "https://www.conforama.fr/",
+      "https://www.ikea.com/fr/fr/"
+    ],
+    "total_products": 5,
+    "script_version": "1.0"
+  },
+  "products": [
+    {
+      "payload": {
+        "name": "Bibliothèque 2 portes LOMOCO GASPARD coloris bois clair - Conforama",
+        "image_url": "https://raw.githubusercontent.com/vila91/furniture-cdn/main/office/furniture_59606782-7b4b-473b-aaf7-c7f7dd49e2f4.jpg",
+        "ecommerce_url": "https://www.conforama.fr/bureau-rangement/rangement/bibliotheque/bibliotheque-gaspard/p/768834",
+        "dimensions": {
+          "width": 0,
+          "height": 0,
+          "depth": 0
+        },
+        "type": "autre",
+        "style": "moderne",
+        "room": [
+          "salon"
+        ],
+        "tags": [],
+        "color_primary": "inconnu",
+        "color_secondary": null,
+        "material": "inconnu",
+        "brand": "LOMOCO",
+        "price_range": "0-100",
+        "description": "Conforama accueille la marque LOMOCO en exclusivité en France pour offrir à ses clients une offre de produits tendance à prix accessible.",
+        "weight": 0,
+        "assembly_required": false,
+        "warranty": "non spécifiée",
+        "stock_status": "unknown",
+        "country": "France"
+      }
+    },
+    {
+      "payload": {
+        "name": "Réfrigérateur combiné (congélateur en bas) HISENSE RB329N4WDE - Conforama",
+        "image_url": "https://raw.githubusercontent.com/vila91/furniture-cdn/main/office/furniture_22d14623-2140-4b66-b80a-cb79b9616c3f.jpg",
+        "ecommerce_url": "https://www.conforama.fr/gros-electromenager/refrigerateur/refrigerateur-congelateur-bas/refrigerateur-combine--congel-en-bas--hisense-rb329n4wde/p/785491",
+        "dimensions": {
+          "width": 0,
+          "height": 0,
+          "depth": 0
+        },
+        "type": "autre",
+        "style": "moderne",
+        "room": [
+          "cuisine"
+        ],
+        "tags": [],
+        "color_primary": "inconnu",
+        "color_secondary": null,
+        "material": "inconnu",
+        "brand": "HISENSE",
+        "price_range": "0-100",
+        "description": "Accédez à votre compte personnel pour profiter au maximum de l'expérience Conforama !",
+        "weight": 0,
+        "assembly_required": false,
+        "warranty": "non spécifiée",
+        "stock_status": "unknown",
+        "country": "France"
+      }
+    },
+    {
+      "payload": {
+        "name": "Confoweek - Confoweek - Conforama",
+        "image_url": "https://raw.githubusercontent.com/vila91/furniture-cdn/main/office/furniture_83fe35c9-4eae-4811-8b13-e7ee19f6eaa2.jpg",
+        "ecommerce_url": "https://www.conforama.fr/boutique/boutique-confoweek/confoweek-tous-les-produits",
+        "dimensions": {
+          "width": 0,
+          "height": 0,
+          "depth": 0
+        },
+        "type": "autre",
+        "style": "moderne",
+        "room": [
+          "salon"
+        ],
+        "tags": [],
+        "color_primary": "inconnu",
+        "color_secondary": null,
+        "material": "inconnu",
+        "brand": "inconnu",
+        "price_range": "0-100",
+        "description": "*Prix éco-mobilier inclus (montant affiché sur chaque fiche produit)",
+        "weight": 0,
+        "assembly_required": false,
+        "warranty": "non spécifiée",
+        "stock_status": "unknown",
+        "country": "France"
+      }
+    },
+    {
+      "payload": {
+        "name": "Bobochic Paris X Conforama - Offres Génériques - Mises en avant - Conforama",
+        "image_url": "https://raw.githubusercontent.com/vila91/furniture-cdn/main/office/furniture_901e02e3-0589-49f6-87ec-212b0f61e195.jpg",
+        "ecommerce_url": "https://www.conforama.fr/mises-en-avant/offres-generiques/bobochic-x-conforama/c/1205TH17",
+        "dimensions": {
+          "width": 0,
+          "height": 0,
+          "depth": 0
+        },
+        "type": "autre",
+        "style": "moderne",
+        "room": [
+          "salon"
+        ],
+        "tags": [],
+        "color_primary": "inconnu",
+        "color_secondary": null,
+        "material": "inconnu",
+        "brand": "inconnu",
+        "price_range": "0-100",
+        "description": "*Prix éco-participation inclus  (montant affiché sur chaque fiche produit)",
+        "weight": 0,
+        "assembly_required": false,
+        "warranty": "non spécifiée",
+        "stock_status": "unknown",
+        "country": "France"
+      }
+    },
+    {
+      "payload": {
+        "name": "Bureau 123cm MALICIA coloris blanc/chêne - Conforama",
+        "image_url": "https://raw.githubusercontent.com/vila91/furniture-cdn/main/office/furniture_dc3025de-0b00-489e-9529-7ed5581e894b.jpg",
+        "ecommerce_url": "https://www.conforama.fr/bureau-rangement/bureau/bureau/bureau-123-cm-malicia-coloris-blanc-chene-shannon/p/623395",
+        "dimensions": {
+          "width": 123,
+          "height": 0,
+          "depth": 0
+        },
+        "type": "table",
+        "style": "moderne",
+        "room": [
+          "bureau"
+        ],
+        "tags": [],
+        "color_primary": "blanc",
+        "color_secondary": "chêne",
+        "material": "inconnu",
+        "brand": "Conforama",
+        "price_range": "0-100",
+        "description": "Pour gagner encore plus d'espace sans perdre de confort, associez-le au tabouret de bureau AGATHE.",
+        "weight": 0,
+        "assembly_required": false,
+        "warranty": "non spécifiée",
+        "stock_status": "unknown",
+        "country": "France"
+      }
+    }
+  ]
+}
