@@ -1,0 +1,304 @@
+{
+  "metadata": {
+    "extraction_date": "2025-07-23T10:19:04.675308",
+    "sites_analyzed": [
+      "https://www.ikea.com/fr/fr/",
+      "https://www.conforama.fr/",
+      "https://www.but.fr/"
+    ],
+    "total_products": 10,
+    "script_version": "1.0"
+  },
+  "products": [
+    {
+      "payload": {
+        "name": "Bobochic Paris X Conforama - Offres Génériques - Mises en avant - Conforama",
+        "image_url": "https://raw.githubusercontent.com/vila91/furniture-cdn/main/office/furniture_7e428996-1e77-4b10-bedc-3a2f8b9f340e.jpg",
+        "ecommerce_url": "https://www.conforama.fr/mises-en-avant/offres-generiques/bobochic-x-conforama/c/1205TH17",
+        "dimensions": {
+          "width": 0,
+          "height": 0,
+          "depth": 0
+        },
+        "type": "autre",
+        "style": "moderne",
+        "room": [
+          "salon"
+        ],
+        "tags": [],
+        "color_primary": "inconnu",
+        "color_secondary": null,
+        "material": "inconnu",
+        "brand": "inconnu",
+        "price_range": "0-100",
+        "description": "*Prix éco-participation inclus  (montant affiché sur chaque fiche produit)",
+        "weight": 0,
+        "assembly_required": false,
+        "warranty": "non spécifiée",
+        "stock_status": "unknown",
+        "country": "France"
+      }
+    },
+    {
+      "payload": {
+        "name": "Réfrigérateur combiné (congélateur en bas) HISENSE RB329N4WDE - Conforama",
+        "image_url": "https://raw.githubusercontent.com/vila91/furniture-cdn/main/office/furniture_d20536ac-6768-43bb-8b54-140889471d92.jpg",
+        "ecommerce_url": "https://www.conforama.fr/gros-electromenager/refrigerateur/refrigerateur-congelateur-bas/refrigerateur-combine--congel-en-bas--hisense-rb329n4wde/p/785491",
+        "dimensions": {
+          "width": 0,
+          "height": 0,
+          "depth": 0
+        },
+        "type": "autre",
+        "style": "moderne",
+        "room": [
+          "cuisine"
+        ],
+        "tags": [],
+        "color_primary": "inconnu",
+        "color_secondary": null,
+        "material": "inconnu",
+        "brand": "HISENSE",
+        "price_range": "0-100",
+        "description": "Accédez à votre compte personnel pour profiter au maximum de l'expérience Conforama !",
+        "weight": 0,
+        "assembly_required": false,
+        "warranty": "non spécifiée",
+        "stock_status": "unknown",
+        "country": "France"
+      }
+    },
+    {
+      "payload": {
+        "name": "Confoweek - Confoweek - Conforama",
+        "image_url": "null",
+        "ecommerce_url": "https://www.conforama.fr/boutique/boutique-confoweek/confoweek-tous-les-produits",
+        "dimensions": {
+          "width": 0,
+          "height": 0,
+          "depth": 0
+        },
+        "type": "autre",
+        "style": "inconnu",
+        "room": [
+          "salon"
+        ],
+        "tags": [],
+        "color_primary": "inconnu",
+        "color_secondary": null,
+        "material": "inconnu",
+        "brand": "inconnu",
+        "price_range": "0-100",
+        "description": "*Prix éco-mobilier inclus (montant affiché sur chaque fiche produit)",
+        "weight": 0,
+        "assembly_required": false,
+        "warranty": "non spécifiée",
+        "stock_status": "unknown",
+        "country": "France"
+      }
+    },
+    {
+      "payload": {
+        "name": "Bibliothèque 2 portes LOMOCO GASPARD coloris bois clair - Conforama",
+        "image_url": "https://raw.githubusercontent.com/vila91/furniture-cdn/main/office/furniture_ae2790fc-d463-415b-b9ad-cf034daf0553.jpg",
+        "ecommerce_url": "https://www.conforama.fr/bureau-rangement/rangement/bibliotheque/bibliotheque-gaspard/p/768834",
+        "dimensions": {
+          "width": 0,
+          "height": 0,
+          "depth": 0
+        },
+        "type": "autre",
+        "style": "moderne",
+        "room": [
+          "salon"
+        ],
+        "tags": [],
+        "color_primary": "inconnu",
+        "color_secondary": null,
+        "material": "inconnu",
+        "brand": "LOMOCO",
+        "price_range": "0-100",
+        "description": "Conforama accueille la marque LOMOCO en exclusivité en France pour offrir à ses clients une offre de produits tendance à prix accessible.",
+        "weight": 0,
+        "assembly_required": false,
+        "warranty": "non spécifiée",
+        "stock_status": "unknown",
+        "country": "France"
+      }
+    },
+    {
+      "payload": {
+        "name": "Bureau 123cm MALICIA coloris blanc/chêne - Conforama",
+        "image_url": "https://raw.githubusercontent.com/vila91/furniture-cdn/main/office/furniture_87ea2cef-6e0d-4244-adb8-3bb52787d707.jpg",
+        "ecommerce_url": "https://www.conforama.fr/bureau-rangement/bureau/bureau/bureau-123-cm-malicia-coloris-blanc-chene-shannon/p/623395",
+        "dimensions": {
+          "width": 123,
+          "height": 0,
+          "depth": 0
+        },
+        "type": "table",
+        "style": "moderne",
+        "room": [
+          "bureau"
+        ],
+        "tags": [],
+        "color_primary": "blanc",
+        "color_secondary": "chêne",
+        "material": "inconnu",
+        "brand": "Conforama",
+        "price_range": "0-100",
+        "description": "Pour gagner encore plus d'espace sans perdre de confort, associez-le au tabouret de bureau AGATHE.",
+        "weight": 0,
+        "assembly_required": false,
+        "warranty": "non spécifiée",
+        "stock_status": "unknown",
+        "country": "France"
+      }
+    },
+    {
+      "payload": {
+        "name": "Livraison BUT : tarifs, montage et RDV à domicile",
+        "image_url": "https://raw.githubusercontent.com/vila91/furniture-cdn/main/office/furniture_af5e572b-bff4-4f07-86ca-cd72be522d0b.jpg",
+        "ecommerce_url": "https://www.but.fr/Services/livraison",
+        "dimensions": {
+          "width": 0,
+          "height": 0,
+          "depth": 0
+        },
+        "type": "autre",
+        "style": "autre",
+        "room": [
+          "salon"
+        ],
+        "tags": [],
+        "color_primary": "inconnu",
+        "color_secondary": null,
+        "material": "inconnu",
+        "brand": "inconnu",
+        "price_range": "0-100",
+        "description": "Être quasi voisins, c’est vous offrir des solutions de livraisons rapides et confortables.",
+        "weight": 0,
+        "assembly_required": false,
+        "warranty": "non spécifiée",
+        "stock_status": "unknown",
+        "country": "France"
+      }
+    },
+    {
+      "payload": {
+        "name": "Missions et organisation - Fevad, la Fédération du e-commerce et de la vente à distance",
+        "image_url": "https://raw.githubusercontent.com/vila91/furniture-cdn/main/office/furniture_2a09c554-904a-497e-92c3-ede6053bdb57.jpg",
+        "ecommerce_url": "https://www.fevad.com/structure-et-organisation/",
+        "dimensions": {
+          "width": 0,
+          "height": 0,
+          "depth": 0
+        },
+        "type": "autre",
+        "style": "autre",
+        "room": [
+          "salon"
+        ],
+        "tags": [],
+        "color_primary": "inconnu",
+        "color_secondary": null,
+        "material": "inconnu",
+        "brand": "inconnu",
+        "price_range": "0-100",
+        "description": "N/A",
+        "weight": 0,
+        "assembly_required": false,
+        "warranty": "non spécifiée",
+        "stock_status": "unknown",
+        "country": "France"
+      }
+    },
+    {
+      "payload": {
+        "name": "Code promo BUT et bon de réduction | BUT.fr",
+        "image_url": "https://raw.githubusercontent.com/vila91/furniture-cdn/main/office/furniture_26db6bc5-7524-406f-bae9-8c9940c35c37.jpg",
+        "ecommerce_url": "https://www.but.fr/code-reduction-bon-plan",
+        "dimensions": {
+          "width": 0,
+          "height": 0,
+          "depth": 0
+        },
+        "type": "autre",
+        "style": "autre",
+        "room": [
+          "salon"
+        ],
+        "tags": [],
+        "color_primary": "inconnu",
+        "color_secondary": null,
+        "material": "inconnu",
+        "brand": "inconnu",
+        "price_range": "0-100",
+        "description": "Vérifiez les jours et horaires d'ouverture de votre magasin sur sa fiche.",
+        "weight": 0,
+        "assembly_required": false,
+        "warranty": "non spécifiée",
+        "stock_status": "unknown",
+        "country": "France"
+      }
+    },
+    {
+      "payload": {
+        "name": "Meubles et déco responsables avec Ecomaison | BUT.fr",
+        "image_url": "https://raw.githubusercontent.com/vila91/furniture-cdn/main/office/furniture_03484cd4-7390-4716-8af5-d046b6c21854.jpg",
+        "ecommerce_url": "https://www.but.fr/a/1-Eco-Mobilier",
+        "dimensions": {
+          "width": 0,
+          "height": 0,
+          "depth": 0
+        },
+        "type": "autre",
+        "style": "inconnu",
+        "room": [
+          "salon"
+        ],
+        "tags": [],
+        "color_primary": "inconnu",
+        "color_secondary": null,
+        "material": "inconnu",
+        "brand": "inconnu",
+        "price_range": "0-100",
+        "description": "C'est une contribution financière qui s'applique obligatoirement sur le prix d'objets d'équipement de la maison (meubles, literie et décoration) et qui va financer leur fin de vie.",
+        "weight": 0,
+        "assembly_required": false,
+        "warranty": "non spécifiée",
+        "stock_status": "unknown",
+        "country": "France"
+      }
+    },
+    {
+      "payload": {
+        "name": "Geev & BUT : Donnez une Nouvelle Vie à Vos Meubles",
+        "image_url": "https://raw.githubusercontent.com/vila91/furniture-cdn/main/office/furniture_3b2614ad-6fb6-43d5-b82d-ac991b46de75.jpg",
+        "ecommerce_url": "https://www.but.fr/geev-dons-d-objets-entre-particuliers",
+        "dimensions": {
+          "width": 0,
+          "height": 0,
+          "depth": 0
+        },
+        "type": "autre",
+        "style": "autre",
+        "room": [
+          "salon"
+        ],
+        "tags": [],
+        "color_primary": "inconnu",
+        "color_secondary": null,
+        "material": "inconnu",
+        "brand": "inconnu",
+        "price_range": "0-100",
+        "description": "Vérifiez les jours et horaires d'ouverture de votre magasin sur sa fiche.",
+        "weight": 0,
+        "assembly_required": false,
+        "warranty": "non spécifiée",
+        "stock_status": "unknown",
+        "country": "France"
+      }
+    }
+  ]
+}
